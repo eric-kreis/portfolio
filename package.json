@@ -1,6 +1,9 @@
 {
-  "name": "portfolio-front",
+  "name": "my-portfolio",
   "private": true,
+  "repository": "git@github.com:eric-kreis/portfolio.git",
+  "author": "Eric Kreis <erickreis793@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
