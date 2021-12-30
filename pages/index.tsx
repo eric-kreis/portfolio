@@ -4,9 +4,7 @@ import Head from 'next/head';
 const Home: NextPage = () => {
   return (
     <div>
-      <Head>
-        <title>Eric Kreis</title>
-      </Head>
+      <Head><title>Eric Kreis</title></Head>
       <h1>Hello, I'm Eric</h1>
     </div>
   );
